@@ -66,7 +66,7 @@ function onYouTubeIframeAPIReady() {
       a1.style.color = 'black';
       a1.style.fontFamily = 'Poppins';
       a1.style.fontSize = '20px';
-      a1.innerText = "Orhneal der mer Hisús Krisdós amén\n\nBendito sea nuestro Señor Jesucristo. Amén"
+      a1.innerText = "Orhneal der mer Hisús Krisdós amén\n\n\nBendito sea nuestro Señor Jesucristo. Amén"
       
       
        
@@ -86,7 +86,7 @@ function onYouTubeIframeAPIReady() {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Hair mer vor herguins ies, \nsurp ieghitsi anun Ko.\n\nPadre nuestro que estás en \nlos cielos, santificado sea Tu nombre; " 
+    a1.innerText = "Hair mer vor herguins ies, \nsurp ieghitsi anun Ko.\n\n\nPadre nuestro que estás en \nlos cielos, santificado sea Tu nombre; " 
   
 
   }  
@@ -98,7 +98,7 @@ function onYouTubeIframeAPIReady() {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Ieguestsé arkaiutiun Ko ieghitsin \ngamk Ko vorbes herguinës iev hergrí\n\nvenga a nosotros Tu reino; hágase tu voluntad \nasí en la tierra como en el cielo, " 
+    a1.innerText = "Ieguestsé arkaiutiun Ko ieghitsin \ngamk Ko vorbes herguinës iev hergrí\n\n\nvenga a nosotros Tu reino; hágase tu voluntad \nasí en la tierra como en el cielo, " 
   
 
   } 
@@ -107,7 +107,7 @@ function onYouTubeIframeAPIReady() {
       a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "zhats mer hanabazort dur mez aisor \niev togh mez ëzbardis mer\n\nel pan nuestro de cada día danos \nhoy y perdonanos nuestras deudas " 
+    a1.innerText = "zhats mer hanabazort dur mez aisor iev togh mez \nëzbardis mer\n\n\nel pan nuestro de cada día danos hoy y \nperdonanos nuestras deudas " 
   
   } 
  
@@ -115,7 +115,7 @@ function onYouTubeIframeAPIReady() {
      a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "vorbes iev mek toghumk \nmerots bardabanats\n\nasí como nosotros perdonamos \na nuestros deudores" 
+    a1.innerText = "vorbes iev mek toghumk \nmerots bardabanats\n\n\nasí como nosotros perdonamos \na nuestros deudores" 
   
   } 
  
@@ -123,14 +123,14 @@ function onYouTubeIframeAPIReady() {
      a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "iev mi danir ëzmez i portsutiún \nail prguiá ëzmez i charé\n\ny no nos dejes caer \nen la tentación mas libranos del mal" 
+    a1.innerText = "iev mi danir ëzmez i portsutiún \ail prguiá \nëzmez i charé\n\n\ny no nos dejes caer \nen la tentación mas libranos del mal" 
   } 
  
   if(tiempoDeVideo > 116) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "zi ko e arkaiutiún iev \nzorutiún iev parrk havidiánës amén\n\nporque es Tuyo el reino y el poder \ny la gloria, por todos los siglos. Amén" 
+    a1.innerText = "zi ko e arkaiutiún iev \nzorutiún iev parrk havidiánës amén\n\n\nporque es Tuyo el reino y el poder y la gloria, \npor todos los siglos. Amén" 
   } 
  
   if(tiempoDeVideo > 124) {
@@ -144,21 +144,21 @@ if(tiempoDeVideo > 128) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Jorhurt jorin anhas anësguizpn\n\nOh misterio profundo, inalcanzable, sin principio," 
+    a1.innerText = "Jorhurt jorin anhas anësguizpn\n\n\nOh misterio profundo, inalcanzable, sin principio," 
   } 
  
   if(tiempoDeVideo > 135) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "vor zartaretser ëzverin bedutiunt\n\nque has adornado tu supremo" 
+    a1.innerText = "vor zartaretser ëzverin bedutiunt\n\n\nque has adornado tu supremo" 
   } 
 
   if(tiempoDeVideo > 142) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "y harrakasd anmaduits lusuin kerabandz \nparrok ëztass hreghinats\n\nreino en la residencia de la luz \ninaccesible y con gloria esplendorosa \nlos coros de los ángeles" 
+    a1.innerText = "y harrakasd anmaduits lusuin kerabandz \nparrok ëztass hreghinats\n\n\nreino en la residencia de la luz \ninaccesible y con gloria esplendorosa \nlos coros de los ángeles" 
   } 
  
   if(tiempoDeVideo > 160) {
@@ -170,7 +170,7 @@ if(tiempoDeVideo > 128) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Takavor iergnavor zegueghetsí \nKo ansharyh bahiá\n\nRey celestial, mantén inamovible tu iglesia \ny preserva" 
+    a1.innerText = "Takavor iergnavor zegueghetsí \nKo ansharyh bahiá\n\n\nRey celestial, mantén inamovible tu iglesia \ny preserva" 
   } 
 
   
@@ -178,7 +178,7 @@ if(tiempoDeVideo > 128) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "iev zergërbakus anvant kum bahiá \ny jaghaghutián\n\na los adoradores de tu \nsanto nombre en paz" 
+    a1.innerText = "iev zergërbakus anvant kum bahiá \ny jaghaghutián\n\n\na los adoradores de tu \nsanto nombre en paz" 
   } 
  
   if(tiempoDeVideo > 228.5) {

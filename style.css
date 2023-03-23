@@ -1102,109 +1102,101 @@ grid-row-end: 1;}
   @media screen and (max-width:575px)
   
   
-  {
-    .subcontainer1 { width: 30%;
-                     height: 120px;
-                     background: rgb(235, 235, 235) ;
-                    display: grid;
-                     grid-template-columns: repeat(4, 1fr);
-                    grid-template-rows: repeat(3, 1fr);
-                    justify-content: center;
-                    padding: 1%;
-                    margin:auto;
-                   
-                    
-                    
-                   
-                     
-                    
-                  }
-
-    .banner1{width: 100%;
-        height: 100%;
-        color: rgb(146, 2, 165);
-       background: rgb(228, 228, 228);
-        margin-left: 15%;
-        
+  {  .subcontainer1 { width: 80%;
+    height: 120px;
+    background: rgb(235, 235, 235) ;
+   display: grid;
+    grid-template-columns: repeat(4, 1fr);
+   grid-template-rows: repeat(3, 1fr);
+   justify-content: center;
+   padding: 1%;
+   margin:auto;
+  
+   
+   
+  
     
-        grid-column-start: 1;
-        grid-column-end: 4;
-        grid-row-start: 1;
-        grid-row-end: 3;
-    }
+   
+ }
 
-    .subBanner1{ display: grid;
-        grid-template-columns: repeat(3, 1fr);
-       grid-template-rows: repeat(3, 1fr);
-       justify-content: center;
-       width: 100%;
-       height: 100%;}
-       
-            .subBanner1 h3{
-               
-              margin-left: 15%;
-              grid-column-start: 2;
-            grid-column-end: 3;
-            grid-row-start: 2;
-            grid-row-end: 3; }
-
-
-       /**/
-
-    
-       .subcontainer2 { width: 40%;
-        height: 320px;
-        background: rgb(95, 95, 95) ;
-       display: grid;
-        grid-template-columns: repeat(4, 1fr);
-       grid-template-rows: repeat(3, 1fr);
-       justify-content: center;
-       padding: 1%;
-       margin:auto;
-       margin-top: -15px;
-        
-      
-        
-       
-     }
-
-.banner2{width: 100%;
+.banner1{width: 100%;
 height: 100%;
-color: red;
-background: rgb(138, 19, 138);
-margin-left: 50%;
+color: rgb(146, 2, 165);
+background: rgb(228, 228, 228);
+margin-left: 15%;
 
-grid-column-start: 2;
+
+grid-column-start: 1;
+grid-column-end: 4;
+grid-row-start: 1;
+grid-row-end: 3;
+}
+
+.subBanner1{ display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: repeat(3, 1fr);
+justify-content: center;
+width: 100%;
+height: 100%;}
+
+.subBanner1 h3{
+white-space: nowrap;
+margin-left: 50%;
+grid-column-start: 1;
 grid-column-end: 3;
 grid-row-start: 2;
-grid-row-end: 3;}
+grid-row-end: 3; }
+
+
+/**/
+
+
+.subcontainer2 { width: 80%;
+height: 280px;
+background: rgb(95, 95, 95) ;
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(3, 1fr);
+justify-content: center;
+padding: 1%;
+margin:auto;
+margin-top: -25px;
+
+
+
+
+}
 
 
 
 
 
-    /********/
 
-       
-    .subcontainer3 { width: 35%;
-        height: 200px;
-        background: rgb(233, 233, 233) ;
-       display: grid;
-        grid-template-columns: repeat(4, 1fr);
-       grid-template-rows: repeat(1, 1fr);
-       justify-content: center;
-       padding: 1%;
-       margin:auto;
-       border: rgb(209, 209, 209) solid 1px;
-       margin-top: 15px;
-      
-      
-        
-       
-     }
 
-.banner3{width: 100%;
-height: 95%;
+/********/
+
+
+.subcontainer3 { width: 70%;
+height: 270px;
+background: rgb(233, 233, 233) ;
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(1, 1fr);
+justify-content: center;
+padding: 1%;
+margin:auto;
+border: rgb(209, 209, 209) solid 1px;
+margin-top: 10px;
+
+
+
+
+}
+
+.banner3{
+margin-top: 5%; 
+width: 100%;
+height: 90%;
 color: rgb(0, 0, 0);
 background: rgb(243, 243, 243);
 margin-left: 18%;
@@ -1214,7 +1206,6 @@ grid-column-start: 1;
 grid-column-end: 4;
 grid-row-start: 1;
 grid-row-end: 1;}
-  
               }
 
 
@@ -1227,11 +1218,11 @@ grid-row-end: 1;}
   *******************************************************************************************************************************
   ******************************************************************************************************************************/
         
-  @media screen and (max-width:440px)
+  @media screen and (max-width:465px)
   
   
   {
-    .subcontainer1 { width: 30%;
+    .subcontainer1 { width: 80%;
                      height: 120px;
                      background: rgb(235, 235, 235) ;
                     display: grid;
@@ -1269,9 +1260,9 @@ grid-row-end: 1;}
        height: 100%;}
        
             .subBanner1 h3{
-               
-              margin-left: 15%;
-              grid-column-start: 2;
+                white-space: nowrap;
+              margin-left: 50%;
+              grid-column-start: 1;
             grid-column-end: 3;
             grid-row-start: 2;
             grid-row-end: 3; }
@@ -1280,8 +1271,8 @@ grid-row-end: 1;}
        /**/
 
     
-       .subcontainer2 { width: 40%;
-        height: 320px;
+       .subcontainer2 { width: 80%;
+        height: 220px;
         background: rgb(95, 95, 95) ;
        display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -1296,16 +1287,7 @@ grid-row-end: 1;}
        
      }
 
-.banner2{width: 100%;
-height: 100%;
-color: red;
-background: rgb(138, 19, 138);
-margin-left: 50%;
-
-grid-column-start: 2;
-grid-column-end: 3;
-grid-row-start: 2;
-grid-row-end: 3;}
+ 
 
 
 
@@ -1314,8 +1296,8 @@ grid-row-end: 3;}
     /********/
 
        
-    .subcontainer3 { width: 35%;
-        height: 200px;
+    .subcontainer3 { width: 70%;
+        height: 300px;
         background: rgb(233, 233, 233) ;
        display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -1331,8 +1313,10 @@ grid-row-end: 3;}
        
      }
 
-.banner3{width: 100%;
-height: 95%;
+.banner3{
+margin-top: 10%; 
+width: 100%;
+height: 90%;
 color: rgb(0, 0, 0);
 background: rgb(243, 243, 243);
 margin-left: 18%;
