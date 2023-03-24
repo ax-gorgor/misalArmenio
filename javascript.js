@@ -9,7 +9,7 @@ var player;
 function onYouTubeIframeAPIReady() {
    player = new YT.Player('player', {
      height: '100%',
-     width: '50%',
+     width: '100%',
      videoId: 'wYZbG-1LFuA',
      
      events: {
@@ -165,7 +165,7 @@ if(tiempoDeVideo > 128) {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Andjarrahrash zoruteamp sdeghdzer \nzTam badguer diragán,\n\n\nCon indecible y milagrosa \nfuerza creaste a Adán, semejante a tu señorial imagen," 
+    a1.innerText = "Andjarrahrash zoruteamp sdeghdzer \nztam badguer diragán,\n\n\nCon indecible y milagrosa \nfuerza creaste a Adán, semejante a tu señorial imagen," 
   } 
  
   if(tiempoDeVideo > 172) {
