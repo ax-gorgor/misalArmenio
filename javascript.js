@@ -10,7 +10,7 @@ function onYouTubeIframeAPIReady() {
    player = new YT.Player('player', {
      height: '100%',
      width: '50%',
-     videoId: 'I_sBYnCJW9s',
+     videoId: 'wYZbG-1LFuA',
      
      events: {
        'onStateChange': onPlayerStateChange
@@ -161,10 +161,19 @@ if(tiempoDeVideo > 128) {
     a1.innerText = "y harrakasd anmaduits lusuin kerabandz \nparrok ëztass hreghinats\n\n\nreino en la residencia de la luz \ninaccesible y con gloria esplendorosa \nlos coros de los ángeles" 
   } 
  
-  if(tiempoDeVideo > 160) {
-   a1.textContent = ""
+  if(tiempoDeVideo > 161) {
+    a1.style.color = 'black';
+    a1.style.fontFamily = 'Poppins';
+    a1.style.fontSize = '20px';
+    a1.innerText = "Andjarrahrash zoruteamp sdeghdzer \nzTam badguer diragán,\n\n\nCon indecible y milagrosa \nfuerza creaste a Adán, semejante a tu señorial imagen," 
   } 
  
+  if(tiempoDeVideo > 172) {
+    a1.style.color = 'black';
+    a1.style.fontFamily = 'Poppins';
+    a1.style.fontSize = '20px';
+    a1.innerText = "iev nazeli parrok zkesdavoretzer, ir trajdn \nAtení deghí pergranatz.\n\n\ny vestistele con suntuosa \ngloria en el jar- dín de Edén, lugar de encantos." 
+  } 
  
   if(tiempoDeVideo > 192) {
     a1.style.color = 'black';
