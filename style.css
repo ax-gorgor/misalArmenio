@@ -339,7 +339,7 @@ margin-top: 10px;
 
        
     .subcontainer3 { width: 80%;
-        height: 280px;
+        height: 260px;
         background: rgb(233, 233, 233) ;
        display: grid;
         grid-template-columns: repeat(4, 1fr);
