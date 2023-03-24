@@ -428,7 +428,7 @@ if(tiempoDeVideo > 128) {
   }; 
   
   if(tiempoDeVideo > 328.5) {
-    a1.innerText = "hasdadestsé hamenain kordz@s   \n\ny te confirme en todas las" 
+    a1.innerText = "hasdadestsé hamenain kordzës   \n\ny te confirme en todas las" 
    };
 
        
@@ -437,7 +437,7 @@ if(tiempoDeVideo > 128) {
   }; 
 
   if(tiempoDeVideo > 333) {
-    a1.innerText = "  @zkez y hantertseal guian@s Amén \n\n en paz en la vida eterna. Amén" 
+    a1.innerText = "  ëzkez y hantertseal guian@s Amén \n\n en paz en la vida eterna. Amén" 
    } 
   ;
 
@@ -462,7 +462,7 @@ if(tiempoDeVideo > 128) {
    };
 
    if(tiempoDeVideo > 345) {
-    a1.innerText = "kordzeló @zparís,    \n\nbuenas obras, que guíe  " 
+    a1.innerText = "kordzeló ëzparís,    \n\nbuenas obras, que guíe  " 
    }; 
 
    if(tiempoDeVideo > 347) {
@@ -474,7 +474,7 @@ if(tiempoDeVideo > 128) {
    }; 
 
    if(tiempoDeVideo > 351) {
-    a1.innerText = " hzor@n iev voghormadz@n \n\nPoderoso y misericordioso, " 
+    a1.innerText = " hzorën iev voghormadz@n \n\nPoderoso y misericordioso, " 
    }; 
 
    if(tiempoDeVideo > 354) {
@@ -484,7 +484,7 @@ if(tiempoDeVideo > 128) {
 
 
    if(tiempoDeVideo > 357) {
-    a1.innerText = "Hishestsír iev @zmez arrachi  \n\nRecuérdanos también en la  " 
+    a1.innerText = "Hishestsír iev ëzmez arrachi  \n\nRecuérdanos también en la  " 
    }; 
 
    if(tiempoDeVideo > 359) {
@@ -518,7 +518,7 @@ if(tiempoDeVideo > 128) {
    } 
 
    if(tiempoDeVideo > 373) {
-    a1.innerText = " ts@ndzuteamp dzaneruk zi Na e\n\ncon regocijo, conozcan, pues"
+    a1.innerText = " tsëndzuteamp dzaneruk zi Na e\n\ncon regocijo, conozcan, pues"
    } 
 
    if(tiempoDeVideo > 376) {
@@ -526,30 +526,30 @@ if(tiempoDeVideo > 128) {
    } 
 
    if(tiempoDeVideo > 378) {
-    a1.innerText = "Na arar @zmez iev voch mek eak.\n\nEs Él quien nos hizo y no nosotros mismos."
+    a1.innerText = "Na arar ëzmez iev voch mek eak.\n\nEs Él quien nos hizo y no nosotros mismos."
    } 
 
    if(tiempoDeVideo > 380) {
-    a1.innerText = "mek yoghovurt iev jash@n, arodí Norá\n\nSomos su pueblo u ovejas de Su rebaño"
+    a1.innerText = "mek yoghovurt iev jashën, arodí Norá\n\nSomos su pueblo u ovejas de Su rebaño"
    } 
 
    if(tiempoDeVideo > 383) {
-    a1.innerText = "M@dék @nt trun@s Norá josdovanuteamp\n\nEntren por sus puertas con confesión"
+    a1.innerText = "M@dék ënt trunës Norá josdovanuteamp\n\nEntren por sus puertas con confesión"
    } 
 
    if(tiempoDeVideo > 385.5) {
-    a1.innerText = "iev orhnuteamp y harg@s Norá\n\ny con bendición a su casa"
+    a1.innerText = "iev orhnuteamp y hargës Norá\n\ny con bendición a su casa"
    } 
 
    if(tiempoDeVideo > 388) {
-    a1.innerText = "Josdován iegherúk Dearr@n, \n\nConfiesen al Señor, "
+    a1.innerText = "Josdován iegherúk Dearrën, \n\nConfiesen al Señor, "
    } 
    if(tiempoDeVideo > 390) {
     a1.innerText = " iev orhnetsék zanún Norá\n\n y bendigan Su nombre"
    }
 
    if(tiempoDeVideo > 392) {
-    a1.innerText = "kaghts@r e Der, havidean e voghormutiún Norá  \n\nEs dulce el Señor, es eterna Su misericordia se extiende"
+    a1.innerText = "kaghtsër e Der, havidean e voghormutiún Norá  \n\nEs dulce el Señor, es eterna Su misericordia se extiende"
    } 
  
 
