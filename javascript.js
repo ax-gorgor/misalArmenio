@@ -86,7 +86,7 @@ function onYouTubeIframeAPIReady() {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Hair mer vor herguins ies, \nsurp ieghitsi anun Ko.\n\n\nPadre nuestro que estás en \nlos cielos, santificado sea Tu nombre; " 
+    a1.innerText = "Hair mer vor herguins \nies, surp ieghitsi \nanun Ko.\n\n\nPadre nuestro que estás\n en los cielos, santificado sea Tu nombre; " 
   
 
   }  
@@ -98,7 +98,7 @@ function onYouTubeIframeAPIReady() {
     a1.style.color = 'black';
     a1.style.fontFamily = 'Poppins';
     a1.style.fontSize = '20px';
-    a1.innerText = "Ieguestsé arkaiutiun Ko ieghitsin \ngamk Ko vorbes herguinës iev hergrí\n\n\nvenga a nosotros Tu reino; hágase tu voluntad \nasí en la tierra como en el cielo, " 
+    a1.innerText = "Ieguestsé arkaiutiun Ko ieghitsin gamk Ko vorbes herguinës iev hergrí\n\n\nvenga a nosotros Tu reino; hágase tu voluntad así en la tierra como en el cielo, " 
   
 
   } 
