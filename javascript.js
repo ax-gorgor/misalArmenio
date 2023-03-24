@@ -66,6 +66,7 @@ function onYouTubeIframeAPIReady() {
       a1.style.color = 'black';
       a1.style.fontFamily = 'Poppins';
       a1.style.fontSize = '24px';
+      a1.style.fontWeight = '450';
       a1.innerText = "Orhneal der mer Hisús Krisdós amén\n\n\nBendito sea nuestro Señor Jesucristo. Amén"
       
       
@@ -233,84 +234,228 @@ if(tiempoDeVideo > 128) {
      a1.textContent = ""
   } 
 
- /*  
-
-  if(tiempoDeVideo > 96) {
-    a7.style.color = 'black';
-    a8.style.color = '#005caa';
+  
+ if(tiempoDeVideo > 229) {
+   
+    a1.innerText = " iev vasn srpuhvó \n\ny por la intercesión" 
   } 
 
-  //
-
-  if(tiempoDeVideo > 102) {
-    a8.style.color = 'black';
-    a9.style.color = '#f37736';
+   if(tiempoDeVideo > 230.5) {
+    
+    a1.innerText = "Asdvadzadznín parejosuteánn\n\nde la Santísima Madre de Dios" 
   } 
 
-  if(tiempoDeVideo > 107) {
-    a9.style.color = 'black';
-    a10.style.color = '#c51130';
+   
+
+  if(tiempoDeVideo > 233) {
+    
+    a1.innerText = "Der ëngal zaghacháns \n\nOh Señor acepta nuestras  " 
   } 
 
-  if(tiempoDeVideo > 112) {
-    a10.style.color = 'black';
-    a9.style.color = '#005caa';
+  if(tiempoDeVideo > 234.5) {
+   a1.innerText = " mer iev guetsó ëzmez \n\nsúplicas y presérvanos" 
   } 
-
-  if(tiempoDeVideo > 117) {
-    a9.style.color = 'black';
-    a10.style.color = '#f37736';
-  } 
-
  
-  if(tiempoDeVideo > 122) {
-    a10.style.color = 'black';
-    a11.style.color = '#005caa'; //azul
-  } 
-  if(tiempoDeVideo > 127) {
-    a11.style.color = 'black';
-    a12.style.color = '#f37736'; //naranja
+  if(tiempoDeVideo > 236.5) {
+    a1.innerText = " Surp Zasdvadzadzínn iev zamenain \n\nQue la Santa Madre de Dios  " 
   } 
 
-  if(tiempoDeVideo > 132) {
-    a12.style.color = 'black';
-    a11.style.color = '#c51130';
+  if(tiempoDeVideo > 238.5) {
+    a1.innerText = "surps parejós \n\ny todos los santos intercedan" 
+
+  } 
+ 
+ 
+  if(tiempoDeVideo > 240) {
+    a1.innerText = "arastsuk arr Hair y herguinës \n\nante el Padre en el cielo, para que tenga" 
   } 
 
-  if(tiempoDeVideo > 137) {
-    a11.style.color = 'black';
-    a12.style.color = '#c51130';
+
+  if(tiempoDeVideo > 242.5) {
+       a1.innerText = "zi gametseal voghormestsí \n\nvoluntad de dar su misericordia" 
+
+  } 
+ 
+  if(tiempoDeVideo > 244) {
+     a1.innerText = "iev ktatseal guetsustsé zararadzës Iur  \n\ny preserve con compasión a sus criaturas." 
   } 
 
-  if(tiempoDeVideo > 146) {
-    a12.style.color = 'black';
+  if(tiempoDeVideo > 247.5) {
+     a1.innerText = "Amenagal Der Asdvadz mer \n\nOh Dios Todopoderoso" 
+
+  } 
+ 
+  if(tiempoDeVideo > 249) {
+    a1.innerText = "guetsó iev voghormeá \n\nSeñor nuestro presérvanos y ten misericordia" 
      
   } 
+ 
+  if(tiempoDeVideo > 251) {
+    a1.innerText = " Der voghormeá, Der voghormeá, Der voghormeá, \n\nSeñor ten misericordia, Señor ten misericordia, Señor ten misericordia, " 
+  } 
+ 
+  if(tiempoDeVideo > 255) {
+    a1.innerText = "ëngal Der zaghacháns mer \n\nOh Señor acepta nuestras " 
 
-  if(tiempoDeVideo > 21) {
-    a13.style.color = 'black';
-    a14.style.color = 'grey';
-    a15.style.color = 'grey';
   } 
 
-  if(tiempoDeVideo > 61) {
-    a13.style.color = 'grey';
-    a14.style.color = 'black';
-    a15.style.color = 'grey';
-  } 
+  if(tiempoDeVideo > 257) {
+      a1.innerText = "parejosuteamp surp \n\nsúplicas por intercesión de la" 
 
-  if(tiempoDeVideo > 101) {
-    a13.style.color = 'grey';
-    a14.style.color = 'grey';
-    a15.style.color = 'black';
   } 
+ 
+  if(tiempoDeVideo > 259) {
+   a1.innerText = "Asdvadzadznín anarad dznoghí \n\nSanta Madre de Dios," 
+  } 
+  
 
-  if(tiempoDeVideo > 142) {
-    a13.style.color = 'black';
-    a14.style.color = 'black';
-    a15.style.color = 'black';
+   
+  if(tiempoDeVideo > 261.5) {
+      a1.innerText = "Miadzní Vortvó ko \n\nMadre inmaculada de tu Unigénito Hijo"
+ 
+  } 
+  
+
+  
+  if(tiempoDeVideo > 263.5) {
+   a1.innerText = "iev aghachanok amenain srpots kots \n\ny mediante el ruego de todos los Santos" 
+  } 
+ 
+
+  
+  if(tiempoDeVideo > 268) {
+   a1.innerText = "Lur mez Der iev voghormeá,\n\nOyenos, ¡Oh Señor! Y ten misericordia." } 
+  
+
+  
+  if(tiempoDeVideo > 270.5) {
+ a1.innerText = "nereá, kaveá,\n\nPerdona y sé propicio" } 
+  
+
+   
+  if(tiempoDeVideo > 271.5) {
+ a1.innerText = "iev togh zmeghs mer \n\ny remite nuestros pecados. Haznos" } 
+ 
+
+     
+  if(tiempoDeVideo > 274) {
+   a1.innerText = "Aryanavoreá kohuteamp parravorel \n\ndignos de glorificarte" 
+  } 
+   
+
+     
+  if(tiempoDeVideo > 276) {
+   a1.innerText = "ëzkez ënt Vortvó iev ënt Srpó \n\ncon gratitud con el Hijo y con el Espíritu Santo." 
+  } 
+   
+
+       
+  if(tiempoDeVideo > 278.5) {
+   a1.innerText = "Hokvuit aiyëm iev mishd  \n\nAhora y siempre  " 
+  } 
+   
+
+      
+  if(tiempoDeVideo > 280) {
+   a1.innerText = "iev havideáns havideníts Amén \n\ny por los siglos de los siglos. Amén." 
+  } 
+   
+
+     
+  if(tiempoDeVideo > 285) {
+   a1.innerText = "Meghá Asdudzó\n\nHe pecado ante Dios." 
+  } 
+   
+
+         
+  if(tiempoDeVideo > 287) {
+   a1.innerText = "Josdovanim arrachí Asdudzó\n\nConfieso delante de Dios  " 
+  } 
+   
+
+          
+  if(tiempoDeVideo > 289) {
+   a1.innerText = "  iev Srpuhvó Asdvadzadznín\n\ny de la Santa Madre de Dios" 
+  } 
+   
+
+
+
+         
+  if(tiempoDeVideo > 291) {
+   a1.innerText = "iev arrachí amenain srpots \n\ny delante de todos los santos " 
+  } 
+   
+
+           
+  if(tiempoDeVideo > 293) {
+   a1.innerText = "  iev arrachí tser\n\ny delante vuestro," 
+  } 
+   
+
+         
+  if(tiempoDeVideo > 295) {
+   a1.innerText = "hark iev ieghpark zamenain meghs\n\npadres y hermanos, todos mis pecados cometidos." 
+  } 
+   
+
+  
+
+        
+  if(tiempoDeVideo > 298) {
+   a1.innerText = "zors kordzeal em Kanzí meghá jorhrtov\n\nPorque he pecado con el pensamiento," 
+  } 
+  
+
+
+          
+  if(tiempoDeVideo > 302) {
+   a1.innerText = "paniv iev kordzov iev amenain \n\nla palabra y la acción y" 
+  } 
+   
+
+            
+  if(tiempoDeVideo > 304) {
+   a1.innerText = " meghok zor kordzen martig\n\ncon todos los pecados que cometen los hombres." 
+  } 
+  
+
+
+         
+  if(tiempoDeVideo > 305) {
+   a1.innerText = "Meghá, meghá. Aghachém ëztsez \n\nHe pecado sí he pecado." 
+  } 
+   
+         
+  if(tiempoDeVideo > 308) {
+   a1.innerText = "jntretsék vasn im Hasdudzó ëztoghutiún \n\nLes ruego pidan por mí el perdón de Dios" 
+  } 
+  
+
+  /*---------
+  -----------
+  -----------
+  -----------*/
+        /*
+  if(tiempoDeVideo > 259) {
+   a1.innerText = "mer parejosuteamp surp \n\nsúplicas por intercesión de la" 
   } 
   */
+        /*
+  if(tiempoDeVideo > 259) {
+   a1.innerText = "mer parejosuteamp surp \n\nsúplicas por intercesión de la" 
+  } 
+  */
+        /*
+  if(tiempoDeVideo > 259) {
+   a1.innerText = "mer parejosuteamp surp \n\nsúplicas por intercesión de la" 
+  } 
+  */
+
+
+
+
+
 
  }
 
