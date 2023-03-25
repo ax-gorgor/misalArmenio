@@ -821,7 +821,33 @@ if(tiempoDeVideo > 590) {
  
    /**********************MINUTO 9.54 PAGINA 21************************** */
 
+ 
+if(tiempoDeVideo > 594) {
+    a1.innerText = "zorhnutiún iev @zparr@s @nt Hor iev @nt Hokvuit Srpó, aiy@m iev\n\nel Padre y el Espíritu Santo ahora y siempre"
+   };
 
+ 
+ if(tiempoDeVideo > 603) {
+    a1.innerText = "mishd iev havidean@s havidenits. Amén\n\npor los siglos de los siglos. Amén"
+   };
+
+   if(tiempoDeVideo > 610.5) {
+    a1.innerText = ""
+   };
+
+if(tiempoDeVideo > 611.5) {
+    a1.style.fontSize = '18px'
+    a1.innerText = "Ahora se corre la cortina del altar, mientras se canta Himno del día, el celebrante recita con voz baja las oraciones de San Gregorio de Narek y prepara las ofrendas."
+   };
+
+   if(tiempoDeVideo > 826) {
+    a1.innerText = ""
+   };
+ 
+if(tiempoDeVideo > 832) {
+    a1.style.fontSize = '24px'
+    a1.innerText = "Parejosuteamp mor Ko iev gusí\n\nPor intercesión de Tu Madre y Virgen "};
+ 
 
  }
 
