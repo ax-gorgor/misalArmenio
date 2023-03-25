@@ -437,13 +437,13 @@ if(tiempoDeVideo > 128) {
   }; 
 
   if(tiempoDeVideo > 333) {
-    a1.innerText = "  ëzkez y hantertseal guian@s Amén \n\n en paz en la vida eterna. Amén" 
+    a1.innerText = "  ëzkez y hantertseal guianës Amén \n\n en paz en la vida eterna. Amén" 
    } 
   ;
 
     
   if(tiempoDeVideo > 335.5) {
-   a1.innerText = "Azadestsé iev @ztsez martasern   \n\nQue el Dios misericordioso  " 
+   a1.innerText = "Azadestsé iev ëztsez martasern   \n\nQue el Dios misericordioso  " 
   }; 
    
 
@@ -474,7 +474,7 @@ if(tiempoDeVideo > 128) {
    }; 
 
    if(tiempoDeVideo > 351) {
-    a1.innerText = " hzorën iev voghormadz@n \n\nPoderoso y misericordioso, " 
+    a1.innerText = " hzorën iev voghormadzën \n\nPoderoso y misericordioso, " 
    }; 
 
    if(tiempoDeVideo > 354) {
@@ -534,7 +534,7 @@ if(tiempoDeVideo > 128) {
    }; 
 
    if(tiempoDeVideo > 383) {
-    a1.innerText = "M@dék ënt trunës Norá josdovanuteamp\n\nEntren por sus puertas con confesión"
+    a1.innerText = "Mëdék ënt trunës Norá josdovanuteamp\n\nEntren por sus puertas con confesión"
    }; 
 
    if(tiempoDeVideo > 385.5) {
@@ -823,12 +823,12 @@ if(tiempoDeVideo > 590) {
 
  
 if(tiempoDeVideo > 594) {
-    a1.innerText = "zorhnutiún iev @zparr@s @nt Hor iev @nt Hokvuit Srpó, aiy@m iev\n\nel Padre y el Espíritu Santo ahora y siempre"
+    a1.innerText = "zorhnutiún iev ëzparrës ënt Hor iev ënt Hokvuit Srpó, aiyëm iev\n\nel Padre y el Espíritu Santo ahora y siempre"
    };
 
  
  if(tiempoDeVideo > 603) {
-    a1.innerText = "mishd iev havidean@s havidenits. Amén\n\npor los siglos de los siglos. Amén"
+    a1.innerText = "mishd iev havideanës havidenits. Amén\n\npor los siglos de los siglos. Amén"
    };
 
    if(tiempoDeVideo > 610.5) {
