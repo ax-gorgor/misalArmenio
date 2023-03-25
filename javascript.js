@@ -847,6 +847,21 @@ if(tiempoDeVideo > 611.5) {
 if(tiempoDeVideo > 832) {
     a1.style.fontSize = '24px'
     a1.innerText = "Parejosuteamp mor Ko iev gusí\n\nPor intercesión de Tu Madre y Virgen "};
+  
+if(tiempoDeVideo > 858) {
+    a1.style.fontSize = '24px'
+    a1.innerText = "@ngal zaghachan@s Kots bashdoneíts\n\nacepta los ruegos de tus siervos"};
+
+if(tiempoDeVideo > 885) {
+    a1.style.fontSize = '24px'
+    a1.innerText = "vor kerakuin kan zerguin@s baidzarratsutser surp\n\n¡Oh Cristo! que con Tu sangre hiciste Tu Santa Iglesia más luminosa que el cielo."};
+
+if(tiempoDeVideo > 920) {
+    a1.style.fontSize = '24px'
+    a1.innerText = "zegueghetsí areamp Ko, Krisdos\n\nSemejante a las huestes del cielo,"};
+
+
+
  
 
  }
