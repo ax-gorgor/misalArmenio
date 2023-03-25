@@ -733,6 +733,93 @@ if(tiempoDeVideo > 502) {
     a1.innerText = "Art ënter drdum es, antsën im, gam ënter jërrovés zis?\n\n¿Aún estás triste ¡Oh alma mía! o ¿aún me perturbas?"
    };
  /**********************MINUTO 8.26 PAGINA 19************************** */
+ 
+
+ if(tiempoDeVideo > 507.5) {
+    a1.innerText = "husá ar Asdvadz, josdovaneá Nmá, \n\nconfía en Dios, confiésate a Él,"
+   };
+
+
+
+ if(tiempoDeVideo > 510) {
+    a1.innerText = "përguich ieresats imots Asdvadz e. \n\nÉl es el salvador delante de mí y mi Dios." 
+   };
+
+ if(tiempoDeVideo > 514) {
+    a1.innerText = "Parrk Hor iev Vortvó iev Hokvuin Srpó.\n\nGloria al Padre y al Hijo y al Espíritu Santo."
+   };
+
+ if(tiempoDeVideo > 524) {
+    a1.innerText = "Aiyëm iev mishd iev havideanës havidenits Amén.\n\nAhora y siempre por los siglos de los siglos. Amén."
+   };
+
+ if(tiempoDeVideo > 528) {
+    a1.innerText = "iev ievës jaghaghuteán ëzDer aghachestsuk\n\ny otra vez en paz imploremos"
+   };
+
+ if(tiempoDeVideo > 532) {
+    a1.innerText = "Orhnestsúk zamenagalën Asdvadz, \n\nal Señor. Bendígamos,"
+   };
+
+if(tiempoDeVideo > 535.5) {
+    a1.innerText = "ëzHair Deárrën meró Hisusí Krisdosí, \n\nal Padre de nuestro Señor Jesucristo,"
+   };
+ 
+ if(tiempoDeVideo > 540) {
+    a1.innerText = "vor aryaní arar ëzmez gal I deghvochës parrapanuteán \n\nque nos ha hecho dignos de estar en este lugar de glorificación  "
+   };
+
+
+if(tiempoDeVideo > 544.5) {
+    a1.innerText = "iev ierkel zerkës hokevorës.\n\ny de cantar himnos espirituales."
+   };
+
+   /**********************MINUTO 9.07 PAGINA 20************************** */
+ 
+ if(tiempoDeVideo > 547) {
+    a1.innerText = "Amenagál Der Asdvadz mer guetsó iev voghormeá\n\nTodopoderoso Señor, Dios nuestro, presérvanos y ten misericordia"
+   };
+
+
+
+ if(tiempoDeVideo > 553.5) {
+    a1.innerText = "I harguí sërputeán, iev I deghvochës parrapanuteán\n\n En este tabernáculo de santidad y lugar de alabanzas" 
+   };
+
+ if(tiempoDeVideo > 561) {
+    a1.innerText = "hëreshdagats pënagaranís iev martgan kavaranís,\n\nmorada de los ángeles y purgatorio de los hombres,"
+   };
+
+ if(tiempoDeVideo > 568) {
+    a1.innerText = "arrachí asdvadzëngal iev baidzarratseal surp nëshanatsës\n\ndelante de estos símbolos divinos y gloriosos"
+   };
+
+ if(tiempoDeVideo > 572) {
+    a1.innerText = "iev surp seghanuís,\n\ny de Tu santo altar,"
+   };
+
+ if(tiempoDeVideo > 574.5) {
+    a1.innerText = "jonarheal ierguiughiv ierguirbakanemk,\n\nte adoramos con humildad y temor, "
+   };
+
+if(tiempoDeVideo > 583.5) {
+    a1.innerText = "ëzsurp ëzhrashalí iev ëzhaghtogh ëzharutiunët Ko\n\nTu santa y maravillosa y triunfante resurrección, "
+   };
+ 
+ if(tiempoDeVideo > 588) {
+    a1.innerText = "orhnemk iev parravoremk\n\nbendecimos y glorificamos a Ti en compañía"
+   };
+
+
+if(tiempoDeVideo > 590) {
+    a1.innerText = "iev Kez ënt iergnaín zorsën madutsanemk\n\nde las huestes celestiales ofrecemos la bendición y la gloria con"
+   };
+
+
+
+ 
+ 
+   /**********************MINUTO 9.54 PAGINA 21************************** */
 
 
 
