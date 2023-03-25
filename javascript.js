@@ -554,9 +554,83 @@ if(tiempoDeVideo > 128) {
  
 
    if(tiempoDeVideo > 395) {
-    a1.innerText = "hazké minchev hazk e dyshmardutiún Norá  \n\nde generación en generación y Su verdad. "
+    a1.innerText = "hazké minchev hazk e dyshmardutiún Norá\n\nde generación en generación y Su verdad. "
+   } 
+  
+  if(tiempoDeVideo > 398) {
+    a1.innerText = "Parrk Hor iev Vortvó iev Hokvuín srpó\n\nGloria al Padre y al Hijo y al Espíritu Santo "
+   } 
+
+ if(tiempoDeVideo > 401) {
+    a1.innerText = "aiyëm iev mishd iev havideanës\n\nAhora y siempre"
+   } 
+
+ if(tiempoDeVideo > 403) {
+    a1.innerText = "iev havideníts Amén \n\ny por los siglos de los siglos. Amén"
+   } 
+
+ if(tiempoDeVideo > 405) {
+    a1.innerText = "Surp iegueghetsiávs \n\nMediante la Santa Iglesia  "
+   } 
+
+ if(tiempoDeVideo > 407) {
+    a1.innerText = "  aghachestsuk ëzDer\n\nsupliquemos al Señor "
+   } 
+
+ if(tiempoDeVideo > 408.5) {
+    a1.innerText = "zi sovav përguestsé  \n\nque por intermedio de ésta   "
+   } 
+
+ if(tiempoDeVideo > 410) {
+    a1.innerText = "  ëzmez y meghats\n\n  nos salve de nuestros pecados "
+   } 
+
+ if(tiempoDeVideo > 411) {
+    a1.innerText = "iev guetsustsé shnorhiv \n\ny nos guarde con la gracia "
+   } 
+
+ if(tiempoDeVideo > 412) {
+    a1.innerText = "voghormuteán iuró. \n\nde su misericordia."
+   } 
+
+ if(tiempoDeVideo > 413.5) {
+    a1.innerText = "Amenagal Der Asdvadz mer, \n\nTodopoderoso Señor Dios nuestro,  "
+   } 
+
+
+if(tiempoDeVideo > 415) {
+    a1.innerText = "  guetsó iev voghormeá.\n\n  presérvanos y ten misericordia. "
+   } 
+   if(tiempoDeVideo > 418) {
+   a1.innerText = " Der voghormeá, Der voghormeá, Der voghormeá, \n\nSeñor ten misericordia, Señor ten misericordia, Señor ten misericordia, " 
+  }
+
+
+ if(tiempoDeVideo > 422) {
+    a1.innerText = "i mech Dadyarís \n\nEn este templo y frente "
+   } 
+
+if(tiempoDeVideo > 423.5) {
+    a1.innerText = "iev arrachí asdvadzëngal iev \n\na los sagrados y glorificados símbolos"
    } 
  
+  if(tiempoDeVideo > 425) {
+    a1.innerText = "baidzarratseal surp nëshanatsës  \n\ny frente a este santo lugar, "
+   }
+
+ if(tiempoDeVideo > 427) {
+    a1.innerText = " iev surp deghvuis jonarheal\n\nreverenciamos con humilde temor"
+   }
+
+ if(tiempoDeVideo > 430) {
+    a1.innerText = "Ierguiughiv ierguirbakanemk ëzsurp  \n\nTu santo y maravilloso  "
+   }
+
+ if(tiempoDeVideo > 433) {
+    a1.innerText = "  ëzhrashalí iev ëzhaghtogh\n\ny vencedor Señorío. Glorificamos y"
+   }
+ 
+  /**********************MINUTO 7.15 PAGINA 17************************** */
 
 
 
