@@ -509,134 +509,194 @@ if(tiempoDeVideo > 128) {
 
    if(tiempoDeVideo > 369) {
     a1.innerText = "dzarraietsék Dearrn urajuteamp\n\nSeñor con alegría"
-   } 
+   }; 
 
    /* */
 
    if(tiempoDeVideo > 371) {
     a1.innerText = "Mdék arrachí Norá  \n\nEntren en su presencia"
-   } 
+   }; 
 
    if(tiempoDeVideo > 373) {
     a1.innerText = " tsëndzuteamp dzaneruk zi Na e\n\ncon regocijo, conozcan, pues"
-   } 
+   }; 
 
    if(tiempoDeVideo > 376) {
     a1.innerText = "Der Asdvadz mer\n\nEs es nuestro Dios"
-   } 
+   }; 
 
    if(tiempoDeVideo > 378) {
     a1.innerText = "Na arar ëzmez iev voch mek eak.\n\nEs Él quien nos hizo y no nosotros mismos."
-   } 
+   }; 
 
    if(tiempoDeVideo > 380) {
     a1.innerText = "mek yoghovurt iev jashën, arodí Norá\n\nSomos su pueblo u ovejas de Su rebaño"
-   } 
+   }; 
 
    if(tiempoDeVideo > 383) {
     a1.innerText = "M@dék ënt trunës Norá josdovanuteamp\n\nEntren por sus puertas con confesión"
-   } 
+   }; 
 
    if(tiempoDeVideo > 385.5) {
     a1.innerText = "iev orhnuteamp y hargës Norá\n\ny con bendición a su casa"
-   } 
+   }; 
 
    if(tiempoDeVideo > 388) {
     a1.innerText = "Josdován iegherúk Dearrën, \n\nConfiesen al Señor, "
-   } 
+   }; 
    if(tiempoDeVideo > 390) {
     a1.innerText = " iev orhnetsék zanún Norá\n\n y bendigan Su nombre"
-   }
+   };
 
    if(tiempoDeVideo > 392) {
     a1.innerText = "kaghtsër e Der, havidean e voghormutiún Norá  \n\nEs dulce el Señor, es eterna Su misericordia se extiende"
-   } 
+   }; 
  
 
    if(tiempoDeVideo > 395) {
     a1.innerText = "hazké minchev hazk e dyshmardutiún Norá\n\nde generación en generación y Su verdad. "
-   } 
+   }; 
   
   if(tiempoDeVideo > 398) {
     a1.innerText = "Parrk Hor iev Vortvó iev Hokvuín srpó\n\nGloria al Padre y al Hijo y al Espíritu Santo "
-   } 
+   }; 
 
  if(tiempoDeVideo > 401) {
     a1.innerText = "aiyëm iev mishd iev havideanës\n\nAhora y siempre"
-   } 
+   }; 
 
  if(tiempoDeVideo > 403) {
     a1.innerText = "iev havideníts Amén \n\ny por los siglos de los siglos. Amén"
-   } 
+   }; 
 
  if(tiempoDeVideo > 405) {
     a1.innerText = "Surp iegueghetsiávs \n\nMediante la Santa Iglesia  "
-   } 
+   }; 
 
  if(tiempoDeVideo > 407) {
     a1.innerText = "  aghachestsuk ëzDer\n\nsupliquemos al Señor "
-   } 
+   }; 
 
  if(tiempoDeVideo > 408.5) {
     a1.innerText = "zi sovav përguestsé  \n\nque por intermedio de ésta   "
-   } 
+   }; 
 
  if(tiempoDeVideo > 410) {
     a1.innerText = "  ëzmez y meghats\n\n  nos salve de nuestros pecados "
-   } 
+   }; 
 
  if(tiempoDeVideo > 411) {
     a1.innerText = "iev guetsustsé shnorhiv \n\ny nos guarde con la gracia "
-   } 
+   }; 
 
  if(tiempoDeVideo > 412) {
     a1.innerText = "voghormuteán iuró. \n\nde su misericordia."
-   } 
+   }; 
 
  if(tiempoDeVideo > 413.5) {
     a1.innerText = "Amenagal Der Asdvadz mer, \n\nTodopoderoso Señor Dios nuestro,  "
-   } 
+   }; 
 
 
 if(tiempoDeVideo > 415) {
     a1.innerText = "  guetsó iev voghormeá.\n\n  presérvanos y ten misericordia. "
-   } 
+   }; 
    if(tiempoDeVideo > 418) {
    a1.innerText = " Der voghormeá, Der voghormeá, Der voghormeá, \n\nSeñor ten misericordia, Señor ten misericordia, Señor ten misericordia, " 
-  }
+  };
 
 
  if(tiempoDeVideo > 422) {
     a1.innerText = "i mech Dadyarís \n\nEn este templo y frente "
-   } 
+   }; 
 
 if(tiempoDeVideo > 423.5) {
     a1.innerText = "iev arrachí asdvadzëngal iev \n\na los sagrados y glorificados símbolos"
-   } 
+   }; 
  
   if(tiempoDeVideo > 425) {
     a1.innerText = "baidzarratseal surp nëshanatsës  \n\ny frente a este santo lugar, "
-   }
+   };
 
  if(tiempoDeVideo > 427) {
     a1.innerText = " iev surp deghvuis jonarheal\n\nreverenciamos con humilde temor"
-   }
+   };
 
  if(tiempoDeVideo > 430) {
     a1.innerText = "Ierguiughiv ierguirbakanemk ëzsurp  \n\nTu santo y maravilloso  "
-   }
+   };
 
  if(tiempoDeVideo > 433) {
     a1.innerText = "  ëzhrashalí iev ëzhaghtogh\n\ny vencedor Señorío. Glorificamos y"
-   }
+   };
  
   /**********************MINUTO 7.15 PAGINA 17************************** */
+ 
+ if(tiempoDeVideo > 435) {
+    a1.innerText = "ëzharutiunët Ko orhnemk   \n\nTe ofrecemos bendición   "
+   }; 
+
+    if(tiempoDeVideo > 437) {
+    a1.innerText = "  iev parravoremk iev Kez madutsanemk \n\n  y gloria a Ti con el Padre "
+   }; 
+
+if(tiempoDeVideo > 442) {
+    a1.innerText = "zorhnutiún iev ëzparrës ënt  \n\ny con el Espíritu   "
+   }; 
+
+if(tiempoDeVideo > 444) {
+    a1.innerText = " Hor iev ënt Hokvuit Srpó, \n\n Santo, ahora y siempre, "
+   }; 
+ 
+
+
+  if(tiempoDeVideo > 447) {
+    a1.innerText = "aiyëm iev mishd   \n\npor los siglos   "
+   };
+
+  if(tiempoDeVideo > 449) {
+    a1.innerText = "  iev havideanës havideníts Amén  \n\n  de los siglos. Amén "
+   };
+
+ if(tiempoDeVideo > 453.5) {
+    a1.innerText = "Mëdits arrachí seghanó Asdudzó,  \n\n Entraré al altar de Dios, "
+   };
+
+ if(tiempoDeVideo > 456.5) {
+    a1.innerText = "  arr Asdvadz vor\n\n  del Dios que"
+   };
 
 
 
+ if(tiempoDeVideo > 458) {
+    a1.innerText = "uraj arrné ëzmangutiún im  \n\nalegra mi juventud  "
+   };
+
+ if(tiempoDeVideo > 460) {
+    a1.innerText = "Tad ará indz Asdvadz\n\nJúzgame ¡Oh Dios! "
+   };
+
+ if(tiempoDeVideo > 462) {
+    a1.innerText = "iev iráv ará indz i datastaní imum.\n\ny justifícame en mi causa."
+   };
+
+ if(tiempoDeVideo > 464) {
+    a1.innerText = "Hazké, vor voch e surp  \n\nLíbrame de la gente impía   "
+   };
+
+ if(tiempoDeVideo > 467) {
+    a1.innerText = "i martó meghavoré  \n\ny del hombre pecaminoso"
+   };
+
+if(tiempoDeVideo > 468) {
+    a1.innerText = "  nenkavoré prgueá zis.\n\n  y engañoso."
+   };
+
+/**********************MINUTO 7.50 PAGINA 18************************** */
 
 
 
+ 
 
  }
 
