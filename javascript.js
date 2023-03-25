@@ -694,9 +694,47 @@ if(tiempoDeVideo > 468) {
 
 /**********************MINUTO 7.50 PAGINA 18************************** */
 
-
-
  
+ if(tiempoDeVideo > 470) {
+    a1.innerText = "Tú, Asdvadz hëzorich im es, ëntér morratsár zis, \n\nTu eres el Dios de mi fortaleza, ¿por qué me has olvidado?"
+   };
+
+
+
+ if(tiempoDeVideo > 475) {
+    a1.innerText = "ëntér? dërdum knam ies i neghuel tshnamvó imó \n\n¿Por qué yo aún ando triste y oprimido, mientras mis enemigos me oprimen  "
+   };
+
+ if(tiempoDeVideo > 478.5) {
+    a1.innerText = "Arrakeá, Der ëzluis Ko iev ëzdyshmardutiún Ko, \n\nEnvía ¡Oh Señor! Tu luz y tu verdad "
+   };
+
+ if(tiempoDeVideo > 480.5) {
+    a1.innerText = "zi arrachnortestsén indz,\n\npara que me guíen "
+   };
+
+ if(tiempoDeVideo > 484) {
+    a1.innerText = "iev hantsén zis I learrën surp iev I hargës Ko. \n\ny me conduzcan al monte santo y a tu morada.  "
+   };
+
+ if(tiempoDeVideo > 488.5) {
+    a1.innerText = " Mdits arrachí seghanó Asdudzó,  \n\ny Entraré al altar de Dios, "
+   };
+
+if(tiempoDeVideo > 491.5) {
+    a1.innerText = "arr Asdvadz vor uraj arrné ëzmangutiún im.\n\ndel Dios que alegra mi juventud."
+   };
+ 
+ if(tiempoDeVideo > 496.5) {
+    a1.innerText = "Josdován ieghuéts Kez orhnuteamp, Asdvadz, Asdvadz im\n\nMe confieso a Tí, con bendición, ¡Oh Dios, mi Dios!"
+   };
+
+if(tiempoDeVideo > 502) {
+    a1.innerText = "Art ënter drdum es, antsën im, gam ënter jërrovés zis?\n\n¿Aún estás triste ¡Oh alma mía! o ¿aún me perturbas?"
+   };
+ /**********************MINUTO 8.26 PAGINA 19************************** */
+
+
 
  }
 
