@@ -850,19 +850,72 @@ if(tiempoDeVideo > 832) {
   
 if(tiempoDeVideo > 858) {
     a1.style.fontSize = '24px'
-    a1.innerText = "@ngal zaghachan@s Kots bashdoneíts\n\nacepta los ruegos de tus siervos"};
+    a1.innerText = "ëngal zaghachanës Kots bashdoneíts\n\nacepta los ruegos de tus siervos"};
 
 if(tiempoDeVideo > 885) {
     a1.style.fontSize = '24px'
-    a1.innerText = "vor kerakuin kan zerguin@s baidzarratsutser surp\n\n¡Oh Cristo! que con Tu sangre hiciste Tu Santa Iglesia más luminosa que el cielo."};
+    a1.innerText = "vor kerakuin kan zerguinës baidzarratsutser surp\n\n¡Oh Cristo! que con Tu sangre hiciste Tu Santa Iglesia más luminosa que el cielo."};
 
 if(tiempoDeVideo > 920) {
     a1.style.fontSize = '24px'
-    a1.innerText = "zegueghetsí areamp Ko, Krisdos\n\nSemejante a las huestes del cielo,"};
+    a1.innerText = "zegueghetsí areamp Ko, Krisdós\n\nSemejante a las huestes del cielo,"};
 
+/**********************MINUTO 15.44 PAGINA 22************************** */
+
+ 
+ 
+ if(tiempoDeVideo > 944) {
+    a1.innerText = "iev ësd iergnainotsën garketser i smá\n\nordenaste en ella órdenes"
+   };
+
+
+
+ if(tiempoDeVideo > 971) {
+    a1.innerText = "ëztasës arrakelots iev markareíts, surp vartabedats.\n\nde Apóstoles, Profetas y Santos Maestros." 
+   };
+
+   if(tiempoDeVideo > 1010) {
+    a1.innerText = "iev ësd iergnainotsën garketser i smá\n\nordenaste en ella órdenes"
+   };
+
+   if(tiempoDeVideo > 1037) {
+    a1.innerText = "ëztasës arrakelóts iev markareíts, surp vartabedáts.\n\nde Apóstoles, Profetas y Santos Maestros." 
+   };
 
 
  
+ if(tiempoDeVideo > 1075) {
+    a1.innerText = "Aisor yoghoveal dask kahanaíts.\n\nasí congregados hoy, las órdenes de sacerdotes, "
+   };
+
+ if(tiempoDeVideo > 1082.5) {
+    a1.innerText = "sargavakáts, dëbrats iev gëgherigosáts,\n\ndiáconos, acólitos y clérigos,"
+   };
+
+ if(tiempoDeVideo > 1089) {
+    a1.innerText = "jung madutsanemk arrachí Ko, Der, horinag ësd hënumën Zacaría.\n\nofrecemos a Ti. ¡Oh Señor! Incienso como Zakarías en el pasado."
+   };
+ 
+ if(tiempoDeVideo > 1102) {
+    a1.innerText = "ëngal arr i mechën ëzjënganëver maghtáns,\n\nAcepta de nosotros oraciones de ofrenda encendida"
+   };
+
+if(tiempoDeVideo > 1107) {
+    a1.innerText = "vorbés ëzbadarakën Apelí, ëzNoí iev zAprahamú\n\ncomo los sacrificios de Abel, de Noé y de Abraham "
+   };
+
+ if(tiempoDeVideo > 1119) {
+    a1.innerText = "Parejosuteamp verín Ko zoratsët \n\ny por intermedio de las huestes celestiales,"
+   };
+
+
+if(tiempoDeVideo > 1130) {
+    a1.innerText = "mishd anshary baheá zAtorr Haigazneaits.\n\nsostén inalterable el Trono de los Armenios."
+   };
+ 
+ 
+
+/**********************MINUTO 19.08 PAGINA 23************************** */
 
  }
 
