@@ -917,6 +917,66 @@ if(tiempoDeVideo > 1130) {
 
 /**********************MINUTO 19.08 PAGINA 23************************** */
 
+ 
+
+if(tiempoDeVideo > 1148) {
+    a1.innerText = "Orhneá, Der\n\nBendice, Señor"
+   };
+ 
+   
+if(tiempoDeVideo > 1155) {
+    a1.innerText = "Orhneal takavorutiunën Hor iev Vortvó iev Hokvuin Srpó,\n\nBendito es el reino del Padre y del Hijo y del Espíritu Santo,"
+   };
+ 
+   
+if(tiempoDeVideo > 1162) {
+    a1.innerText = "aiyëm iev mishd iev havideanës havideníts. Amén.\n\nahora y siempre por los siglos de los siglos. Amén."
+   };
+ 
+  
+if(tiempoDeVideo > 1168) {
+    a1.innerText = "Miadzín Vortí iev Pand Asdvadz iev anmah eutiún, \n\n¡Oh, Tu Hijo Unigénito y verbo de Dios y Ser inmortal"
+   };
+ 
+   
+if(tiempoDeVideo > 1174) {
+    a1.innerText = "vor hantsën arrer marmnanal \n\nque consentiste en ser encarnado  "
+   };
+ 
+
+   if(tiempoDeVideo > 1176) {a1.innerText = " i sërpuhvó Asdvadzadznén iev i mishd Gusén \n\n  encarnado de la Santa Madre de Dios y siempre Virgen."
+   };
+ 
+   
+if(tiempoDeVideo > 1181) {
+    a1.innerText = "Anpopojelít, mart iegheal, jachetsar Krisdós Asdvadz mer.\n\nTú, que eres invariable, fuiste hombre, y fuiste crucificado ¡Oh Cristo nuestro Dios!"
+   };
+ 
+   
+if(tiempoDeVideo > 1186) {
+    a1.innerText = "mahvamp ëzmah gojetser. minët i sërpó Ierrortutenén,\n\ncon la muerte venciste a la muerte ¡Oh Tú! que eres uno de la Santa Trinidad,"
+   };
+ 
+
+   /**********************MINUTO 19.52 PAGINA 24************************** */
+
+  /* 
+if(tiempoDeVideo > 1160) {
+    a1.innerText = "mishd anshary baheá zAtorr Haigazneaits.\n\nsostén inalterable el Trono de los Armenios."
+   };
+ 
+   
+if(tiempoDeVideo > 1164) {
+    a1.innerText = "mishd anshary baheá zAtorr Haigazneaits.\n\nsostén inalterable el Trono de los Armenios."
+   };
+ 
+   */
+
+
+
+ 
+
+
  }
 
  // Esta funcion se ejecuta cada vez que el video "cambia de estado", es decir, cada
