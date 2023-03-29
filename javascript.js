@@ -1165,6 +1165,8 @@ if(tiempoDeVideo > 1575) {
    if(tiempoDeVideo > 1616) {
     a1.innerText = "  Der, voghormeá. Kez Dearrënt hantsën ieghitsuk\n\nSeñor, ten misericordia. A Ti Señor, nos encomendamos  "
    };
+
+
 if(tiempoDeVideo > 1625) {
     a1.innerText = " Der voghormeá, Der voghormeá, Der voghormeá \n\nSeñor ten misericordia, Señor ten misericordia, Señor ten misericordia. "
    };
@@ -1172,7 +1174,103 @@ if(tiempoDeVideo > 1625) {
 
 /**********************MINUTO 27.16  PAGINA 28************************** */
 
+ 
 
+if(tiempoDeVideo > 1637) {
+    a1.innerText = "Zi voghormadz iev martaser es Asdvadz kolov,\n\nPues siendo Dios, tu eres misericordioso y amas a los hombres " 
+   };
+
+if(tiempoDeVideo > 1640.5) {
+    a1.innerText = "iev Kez vaielé parrk, ishjanutiún iev badiv,  \n\ny a ti conviene la gloria y el honor "
+   };
+
+if(tiempoDeVideo > 1644) {
+    a1.innerText = "aiyëm iev mishd iev havideanës havideníts. Amén \n\nahora y siempre por los siglos de los siglos. Amén"
+   };
+
+if(tiempoDeVideo > 1648.5) {
+    a1.innerText = "NO está en el misal !"
+   };
+
+
+
+if(tiempoDeVideo > 1658) {
+    a1.innerText = " Aleluiá, Ortí\n\nAleluya, Orti (Levantaos)" 
+   };
+
+if(tiempoDeVideo > 1663) {
+    a1.innerText = " Jaghaghutiún amenetsún \n\nQue la paz sea con todos "
+   };
+
+if(tiempoDeVideo > 1671) {
+    a1.innerText = " Iev ënt hokvuit kum\n\nY con tu espíritu "
+   };
+
+if(tiempoDeVideo > 1680) {
+    a1.innerText = "Ierguiughadzuteamp lëvaruk \n\nOíd con reverente temor" 
+   };
+
+if(tiempoDeVideo > 1688) {
+    a1.innerText = "Sërpó Avedaranís Hisusí Krisdosí vor ësd… \n\nEl Santo evangelio de Jesucristo según…"
+   };
+
+ 
+ 
+
+/**********************MINUTO 28.16  PAGINA 29************************** */
+
+
+
+if(tiempoDeVideo > 1696) {
+    a1.innerText = " Parrk Kez Der Asdvadz mer\n\nGloria a Ti, Señor, nuestro Dios"
+   };
+  
+if(tiempoDeVideo > 1706) {
+    a1.innerText = " Brosjumé \n\nPrestemos atención "
+   };
+
+ if(tiempoDeVideo > 1714) {
+    a1.innerText = " Asé Asdvadz \n\nEs Dios quien habla  "
+   };
+
+if(tiempoDeVideo > 1725) {
+    a1.innerText = "NO está en el misal !"
+   };
+
+if(tiempoDeVideo > 1819) {
+    a1.innerText = "Parrk Kez Der Asdvadz mer.\n\nGloria a Ti, Señor nuestro Dios. "
+   };
+
+if(tiempoDeVideo > 1832) {
+    a1.innerText = "NO está en el misal !"
+   };
+  
+if(tiempoDeVideo > 1863) {
+    a1.innerText = "  Havadamk i mi Asdvadz i Hairën amenagal, \n\nCreemos en un sólo Dios, Padre todopoderoso, "
+   };
+  
+
+ if(tiempoDeVideo > 1870) {
+    a1.innerText = "hArarichën iergní Iev iergrí, iereveleats iev anerevutíts \n\ncreador del cielo y de la tierra, de todo lo visible e invisible "
+   };
+
+if(tiempoDeVideo > 1879) {
+    a1.innerText = "Iev i mi Der Hisús Krisdos hOrtín Asdudzó,\n\nY en un solo Señor, Jesucristo, Hijo de Dios,  "
+   };
+  
+if(tiempoDeVideo > 1884) {
+    a1.innerText = " dzneálën hAsdudzó horé miadzín,  \n\nnacido del Padre Dios Unigénito, "
+   };
+  
+
+ if(tiempoDeVideo > 1889) {
+    a1.innerText = "aisinkën heutené Hor Asdvadz Asdudzó, luis y lusó,  \n\nes decir de la misma substancia del Padre Dios de Dios, Luz de Luz,  "
+   };
+
+
+
+
+/**********************MINUTO 31.29 PAGINA 30************************** */
 
  }
 
