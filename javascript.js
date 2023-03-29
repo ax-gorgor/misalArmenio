@@ -960,19 +960,52 @@ if(tiempoDeVideo > 1186) {
 
    /**********************MINUTO 19.52 PAGINA 24************************** */
 
-  /* 
-if(tiempoDeVideo > 1160) {
-    a1.innerText = "mishd anshary baheá zAtorr Haigazneaits.\n\nsostén inalterable el Trono de los Armenios."
+    
+if(tiempoDeVideo > 1192) {
+    a1.innerText = "parravoraguíts ënt Hor iev Sërpó Hokvuin, guetsó ëzmez.\n\nsglorificado con el Padre y el Espíritu Santo, Sálvanos."
    };
  
    
-if(tiempoDeVideo > 1164) {
-    a1.innerText = "mishd anshary baheá zAtorr Haigazneaits.\n\nsostén inalterable el Trono de los Armenios."
+if(tiempoDeVideo > 1203.5) {
+    a1.innerText = "Iev ievës jaghaghuteán ëzDer aghachestsuk, ëngal, guetsó iev voghormeá.\n\nY otra vez en paz, imploremos al Señor, "
+   };
+
+if(tiempoDeVideo > 1209) {
+    a1.innerText = " Orhneá, Der\n\nsalve y tenga misericordia Bendiga Señor"
    };
  
-   */
+if(tiempoDeVideo > 1216) {
+    a1.innerText = "Orhnutiún iev parrk Hor iev Vortvó iev Hokvuin Sërpó.\n\nBendición y gloria al Padre y al Hijo y al Espíritu Santo"
+   };
+ 
+if(tiempoDeVideo > 1223) {
+    a1.innerText = "Aiyëm iev mishd iev havideanës havideníts. Amén.\n\nahora y siempre por los siglos de los siglos. Amén."
+   };
+ 
 
+if(tiempoDeVideo > 1228.5) {
+    a1.innerText = "Jaghaghutiún amenetsún.\n\nQue la paz sea con todos."
+   };
+ 
 
+if(tiempoDeVideo > 1237.5) {
+    a1.innerText = "Iev ënt hokvuit kum.\n\nY con tu espíritu."
+   };
+ 
+
+if(tiempoDeVideo > 1246) {
+    a1.innerText = "Asdudzó iergërbakestsuk.\n\nNos inclinamos ante Dios."
+   };
+ 
+
+if(tiempoDeVideo > 1256) {
+    a1.innerText = "Arrachí Ko Der.\n\nDelante de Ti, Señor."
+   };
+ 
+ 
+   
+
+/**********************MINUTO 21.05 PAGINA 25************************** */
 
  
 
