@@ -944,7 +944,8 @@ if(tiempoDeVideo > 1174) {
    };
  
 
-   if(tiempoDeVideo > 1176) {a1.innerText = " i sërpuhvó Asdvadzadznén iev i mishd Gusén \n\n  encarnado de la Santa Madre de Dios y siempre Virgen."
+   if(tiempoDeVideo > 1176) {
+    a1.innerText = " i sërpuhvó Asdvadzadznén iev i mishd Gusén \n\n  encarnado de la Santa Madre de Dios y siempre Virgen."
    };
  
    
@@ -1010,7 +1011,7 @@ if(tiempoDeVideo > 1256) {
  
  
  if(tiempoDeVideo > 1265) {
-    a1.innerText = " Der Asdvadz mer, voró garoghutiunët ank@nin e \n\ns¡Oh, Señor nuestro Dios! cuyo poder es inescrutable"
+    a1.innerText = " Der Asdvadz mer, voró garoghutiunët ankënín e \n\ns¡Oh, Señor nuestro Dios! cuyo poder es inescrutable"
    };
  
    
@@ -1112,6 +1113,64 @@ if(tiempoDeVideo > 1528) {
 
 
 /**********************MINUTO 25.29  PAGINA 27************************** */
+
+ 
+
+if(tiempoDeVideo > 1535) {
+    a1.innerText = " Der, voghormeá \n\nSeñor, ten misericordia "
+   };
+ 
+
+if(tiempoDeVideo > 1543) {
+    a1.innerText = " Vasën amenain surp iev ughghaparr iebisgobosáts,\n\nPara todos los santos y ortodoxos obispos,  "
+   };
+ 
+
+if(tiempoDeVideo > 1548) {
+    a1.innerText = "ëzDer aghachestsuk, \n\nimploremos al Señor "
+   };
+
+
+if(tiempoDeVideo > 1552) {
+    a1.innerText = " Der, voghormeá \n\nSeñor, ten misericordia "
+   };
+ 
+
+if(tiempoDeVideo > 1561) {
+    a1.innerText = " Vasën hairabedín meró Dearrën Dearrën (ais anun)\n\nPor la vida de nuestro Patriarca y Catolicós (Su nombre)" 
+   };
+
+if(tiempoDeVideo > 1568) {
+    a1.innerText = "guenáts iev përguteán hokvó norín, ëzDer aghachestsuk \n\ny para la salvación de su alma, imploremos al Señor "
+   };
+
+if(tiempoDeVideo > 1575) {
+    a1.innerText = " Der, voghormeá. Hisheá, Der iev voghormeá\n\nSeñor, ten misericordia. Recuerda, Señor, ten misericordia "
+   };
+  
+   if(tiempoDeVideo > 1584) {
+    a1.innerText = "NO está en el misal !"
+   };
+  
+
+ if(tiempoDeVideo > 1595) {
+    a1.innerText = "  Der, voghormeá. \n\nSeñor, ten misericordia. A Ti Señor, nos encomendamos  "
+   };
+ 
+ if(tiempoDeVideo > 1605) {
+    a1.innerText = "NO está en el misal !"
+   };
+ 
+
+   if(tiempoDeVideo > 1616) {
+    a1.innerText = "  Der, voghormeá. Kez Dearrënt hantsën ieghitsuk\n\nSeñor, ten misericordia. A Ti Señor, nos encomendamos  "
+   };
+if(tiempoDeVideo > 1625) {
+    a1.innerText = " Der voghormeá, Der voghormeá, Der voghormeá \n\nSeñor ten misericordia, Señor ten misericordia, Señor ten misericordia. "
+   };
+ 
+
+/**********************MINUTO 27.16  PAGINA 28************************** */
 
 
 
