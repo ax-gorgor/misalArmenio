@@ -1008,6 +1008,111 @@ if(tiempoDeVideo > 1256) {
 /**********************MINUTO 21.05 PAGINA 25************************** */
 
  
+ 
+ if(tiempoDeVideo > 1265) {
+    a1.innerText = " Der Asdvadz mer, voró garoghutiunët ank@nin e \n\ns¡Oh, Señor nuestro Dios! cuyo poder es inescrutable"
+   };
+ 
+   
+if(tiempoDeVideo > 1270.5) {
+    a1.innerText = "iev parrkët anhasanelí.\n\ny la gloria es incomprensible, "
+   };
+
+if(tiempoDeVideo > 1273) {
+    a1.innerText = "Voró voghormutiunët anchap e iev ktutiunët anpav.\n\nde quien la misericordia es inmesurable y la piedad es ilimitada."
+   };
+ 
+if(tiempoDeVideo > 1282) {
+    a1.innerText = "Tu ësd arrad martasirutiánët Kum, \n\nTu, de acuerdo a tu abundante filantropía, "
+   };
+ 
+if(tiempoDeVideo > 1288) {
+    a1.innerText = "naiáts I yoghovurtës Ko iev i tadyarës ais surp. Iev ará ënt mez\n\ncontempla a tu congregación y a este santo templo, y danos a nosotros,"
+   };
+ 
+
+if(tiempoDeVideo > 1295) {
+    a1.innerText = "ievënt aghotaguitsës mer, arradabes zoghormutiún Ko ievëzgtutiún\n\ny a los que oran con nosotros, tu abundante misericordia y compasión."
+   };
+ 
+
+if(tiempoDeVideo > 1305) {
+    a1.innerText = "Zi Kez vaielé parrk, ishjanutiún iev badiv, \n\nPues a ti, es apropiado gloria, potestad y honor, "
+   };
+ 
+
+if(tiempoDeVideo > 1311) {
+    a1.innerText = "aiyëm iev mishd iev havideanës havidenits. Amén.\n\nahora y siempre, y por los siglos de los siglos. Amén."
+   };
+ 
+
+if(tiempoDeVideo > 1319) {
+    a1.innerText = "Himno apropiado a la festividad"
+   };
+ 
+/**********************MINUTO 24  PAGINA 26************************** */
+
+
+
+   if(tiempoDeVideo > 1440) {
+    a1.innerText = " Zi Kó e garoghutiún iev zoritiún iev parrk havideanës. Amén \n\nPues Tuyo es el poder y la fuerza y la gloria eternamente. Amén"
+   };
+
+
+if(tiempoDeVideo > 1454) {
+    a1.innerText = " Brosjumé\n\nEstemos atentos"
+   };
+ 
+if(tiempoDeVideo > 1463) {
+    a1.innerText = "Surp Asdvadz, Surp iev hëzor, Surp iev anmah, \n\nSanto Dios, Santo y poderoso, Santo e inmortal  "
+   };
+ 
+if(tiempoDeVideo > 1470) {
+    a1.innerText = "vor harear i merrelots, voghormeá mez\n\nque resucitaste de los muertos ten misericordia de nosotros"
+   };
+ 
+if(tiempoDeVideo > 1477) {
+    a1.innerText = "Surp Asdvadz, Surp iev hëzor, Surp iev anmah, \n\nSanto Dios, Santo y poderoso, Santo e inmortal  "
+   };
+
+if(tiempoDeVideo > 1483) {
+    a1.innerText = "vor harear i merrelots, voghormeá mez\n\nque resucitaste de los muertos ten misericordia de nosotros"
+   };
+
+if(tiempoDeVideo > 1490) {
+    a1.innerText = "Surp Asdvadz, Surp iev hëzor, Surp iev anmah, \n\nSanto Dios, Santo y poderoso, Santo e inmortal  "
+   };
+
+if(tiempoDeVideo > 1496) {
+    a1.innerText = "vor harear i merrelots, voghormeá mez\n\nque resucitaste de los muertos ten misericordia de nosotros"
+   };
+
+if(tiempoDeVideo > 1510) {
+    a1.innerText = "Iev ievës jaghaghuteán ëzDer aghachestsuk\n\nY nuevamente en paz imploremos al Señor"
+   };
+ 
+
+if(tiempoDeVideo > 1515) {
+    a1.innerText = "Der, voghormeá\n\nSeñor ten misericordia "
+   };
+ 
+
+if(tiempoDeVideo > 1524) {
+    a1.innerText = "Vasën jaghaghuteán amenain ashjarhí iev\n\nPara la paz de todo el mundo y para la "
+   };
+ 
+
+if(tiempoDeVideo > 1528) {
+    a1.innerText = "hasdaduteán sërpó iegueghetsvó, ëzDer aghachestsuk\n\nestabilidad de la Santa Iglesia, imploremos al Señor "
+   };
+ 
+ 
+ 
+
+
+
+/**********************MINUTO 25.29  PAGINA 27************************** */
+
 
 
  }
